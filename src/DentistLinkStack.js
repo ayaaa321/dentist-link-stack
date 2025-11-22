@@ -1,6 +1,6 @@
 import React from 'react';
 import './DentistLinkStack.css';
-import { FaLinkedin, FaSnapchat, FaTiktok } from 'react-icons/fa6';
+import { FaSnapchat, FaTiktok } from 'react-icons/fa6';
 import { Instagram, Facebook, MessageCircle, LinkedinIcon } from 'lucide-react';
 import profileImage from './images/profile.jpg';
 
