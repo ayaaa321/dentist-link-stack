@@ -1,5 +1,11 @@
+# Simple React Link Page
 
-#A basic React page with social links.
+A basic React single-page app that displays social media links. First time using React.
+
+## What it does
+- Shows profile picture and bio
+- Links to social media platforms
+- Responsive design
 
 
 # Getting Started with Create React App
