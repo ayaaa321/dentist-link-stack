@@ -55,7 +55,7 @@ export default function DentistLinkStack() {
             alt="Dr. Moussaoui Imrane" 
             className="profile-image"
           />
-          <h1 className="name">Dr. Moussaoui Imrane  </h1>
+          <h1 className="name">Dr. Moussaoui Imrane</h1>
           <p className="title">
             Specialist in Periodontology,
             Esthetic Periodontal Surgery & Implant Dentistry</p>
